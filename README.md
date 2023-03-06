@@ -1,2 +1,1 @@
-# Prep-Course-Henry
-Este es un repositorio para probar el modulo 2
+Esta es una prueba para clonar el archivo desde github a la computadora personal
